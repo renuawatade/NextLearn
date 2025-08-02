@@ -1,0 +1,15 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore node_modules and IDE settings
+node_modules/
+.vscode/
+*.log
+
+# Ignore OS and user-specific files
+*.tmp
+*.bak
+*.swp
+*.swo
